@@ -1,0 +1,10 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code files
+.vscode/
+
+# Local build / environment
+node_modules/
+.env
